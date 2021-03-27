@@ -1,0 +1,14 @@
+c:\users\allez\documents\visual studio 2013\Projects\WordsKiller\WordsKiller\bin\Debug\WordsKiller.exe.config
+c:\users\allez\documents\visual studio 2013\Projects\WordsKiller\WordsKiller\bin\Debug\WordsKiller.exe
+c:\users\allez\documents\visual studio 2013\Projects\WordsKiller\WordsKiller\bin\Debug\WordsKiller.pdb
+c:\users\allez\documents\visual studio 2013\Projects\WordsKiller\WordsKiller\obj\Debug\WordsKiller.csprojResolveAssemblyReference.cache
+c:\users\allez\documents\visual studio 2013\Projects\WordsKiller\WordsKiller\obj\Debug\WordsKiller.Form1.resources
+c:\users\allez\documents\visual studio 2013\Projects\WordsKiller\WordsKiller\obj\Debug\WordsKiller.Properties.Resources.resources
+c:\users\allez\documents\visual studio 2013\Projects\WordsKiller\WordsKiller\obj\Debug\WordsKiller.csproj.GenerateResource.Cache
+c:\users\allez\documents\visual studio 2013\Projects\WordsKiller\WordsKiller\obj\Debug\WordsKiller.exe
+c:\users\allez\documents\visual studio 2013\Projects\WordsKiller\WordsKiller\obj\Debug\WordsKiller.pdb
+C:\Users\Allez\documents\visual studio 2013\Projects\WordsKiller\WordsKiller\bin\Debug\Interop.WMPLib.dll
+C:\Users\Allez\documents\visual studio 2013\Projects\WordsKiller\WordsKiller\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Allez\documents\visual studio 2013\Projects\WordsKiller\WordsKiller\obj\Debug\Interop.WMPLib.dll
+C:\Users\Allez\documents\visual studio 2013\Projects\WordsKiller\WordsKiller\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Allez\documents\visual studio 2013\Projects\WordsKiller\WordsKiller\obj\Debug\WordsKiller.csproj.ResolveComReference.cache
